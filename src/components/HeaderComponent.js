@@ -42,6 +42,8 @@ class Header extends Component {
                                             Home
                                         </span>
                                     </NavLink>
+                                </NavItem>
+                                <NavItem>
                                     <NavLink
                                         className="nav-link"
                                         to="/aboutus">
@@ -49,6 +51,8 @@ class Header extends Component {
                                             About Us
                                         </span>
                                     </NavLink>
+                                </NavItem>
+                                <NavItem>
                                     <NavLink
                                         className="nav-link"
                                         to="/menu">
@@ -56,6 +60,8 @@ class Header extends Component {
                                             Menu
                                         </span>
                                     </NavLink>
+                                </NavItem>
+                                <NavItem>
                                     <NavLink
                                         className="nav-link"
                                         to="/contactus">
